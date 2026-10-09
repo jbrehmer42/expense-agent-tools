@@ -10,9 +10,9 @@ Copy this file to `profile/profile.md` and fill it in, or ask the agent to run t
 
 ## Projects
 
-| Project | Code |
-|---------|------|
-|         |      |
+|   Project   |   Code   | Travel expenses billable (BT)? |
+|-------------|----------|--------------------------------|
+|             |          |                                |
 
 ## Company rules
 

@@ -6,3 +6,6 @@ receipts/
 venv/
 .env
 .env.*
+
+# Ignore profile.md since it will likely contain personal info
+profile/profile.md
