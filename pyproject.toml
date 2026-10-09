@@ -1,0 +1,9 @@
+[project]
+name = "concur-helper"
+version = "0.1.0"
+description = "Tools for filling out Concur expense reports with an agent"
+requires-python = ">=3.12"
+dependencies = ["pdfplumber"]
+
+[tool.uv]
+package = false

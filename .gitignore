@@ -1,0 +1,8 @@
+receipts/
+
+.idea/
+.DS_Store
+.venv
+venv/
+.env
+.env.*
