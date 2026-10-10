@@ -11,7 +11,7 @@ Build `profile/profile.md` from `profile/profile.template.md` by interviewing th
 2. Ask for, in order:
    - Full name
    - Home address
-   - Projects and their project codes (repeat until the user says there are no more)
+   - Projects, their project codes, and whether each project's travel expenses are billable (Yes or No; repeat until the user says there are no more)
    - Company rules that matter for expenses (free-form; may be left empty)
 3. Write the answers into the matching sections and remove the template instruction line at the top.
 
