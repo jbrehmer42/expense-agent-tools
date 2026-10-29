@@ -30,7 +30,7 @@ Open the intended existing report, confirm its title and status, and inspect its
 ## Add expense information
 
 1. Read the expense information from the text extracted from the receipt. Identify the total, currency, purchase/booking date, and any VAT information or document disclaimer.
-2. Choose **Add Expense > Manually Create Expense**. In **Add Expense to Report**, select the correct type, e.g. 'train', in the list or search for it. The category might also appear under **Recently Used**.
+2. Choose **Add Expense > Manually Create Expense**. In **Add Expense to Report**, select the **expense type** based on what the receipt is for, e.g. hotel or train. Find it in the list or search for it. The category might also appear under **Recently Used**.
 3. Wait for **New Expense** to finish loading, then fill and verify the fields below.
 
 | Field | Handling |
@@ -48,6 +48,8 @@ Open the intended existing report, confirm its title and status, and inspect its
 ## Itemize expenses (not always required)
 
 **Itemization is required for some expense types.** Hotel expenses required it in the observed configuration. For other expense types, itemize only when Concur requires it.
+
+For each itemization, select the **task type** based on the individual invoice entry, e.g. **Breakfast**, **Accommodation**, or **Taxes**, using the matching category available in Concur. Do not automatically reuse the parent expense type for its itemizations.
 
 1. For a hotel expense, enter the stay's **Date Range** and verify the **Nights** count before itemizing.
 2. Open **Itemizations**. If Concur has already saved the expense and reports missing itemizations, complete them on that saved expense instead of creating another entry.
